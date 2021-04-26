@@ -1,0 +1,36 @@
+﻿CLIENTE::
+	Siempre apunta al servidor de PRODUCCION, salvo para pruebas puntuales en los que hay cambios en cliente y server y se haga de forma coordinada.
+	
+SERVIDOR::
+	Entorno local:
+		- Un solo proyecto en local.
+		- 3 origenes remotos
+			- bitbucket como repositorio
+			- 2 servidores de Heroku despliegue=>proled (produccion): git remote add heroku https://git.heroku.com/proled.git (en vez de heroku poner el nombre que se quiera)
+									           =>proled-test (test): 
+ (en vez de heroku_test poner el nombre que se quiera)
+
+Procedimiento para hacer una tarea en el proyecto server:
+	1.- pull de develop(bitbucket) para obtener los ultimos cambios.
+	2.- crear una feature/branch en la que trabajaremos
+		2.1.- Usando git: git checkout -b NOMBRE_DE_FEATURE
+		3.1.- Usando git flow: git flow feature start NOMBRE_DE_FEATURE 
+	3.- Una vez hechos los cambios en tu rama, volver a hacer pull de develop y mergearlo en tu rama.
+	4.- Solucionar posibles conflictos.
+	5.- Hacer push de la rama a master de proled-test para poder probarlo: git push -f heroku_test NOMBRE_DE_FEATURE:master (en lugar de heroku_test poner el nombre indicado al repo remoto)
+		5.1.- Cuando hacemos push en la rama master de cualquiera de los servidores Heroku, este desplegará la aplicacion.
+	6.- Al terminar las pruebas volvemos a hacer pull de develop para asegurarnos que no se han subido modificaciones que no tengamos.
+	7.- Cerramos la rama:
+		7.1.- Usando git: 
+			7.1.1.- Vamos a la rama develop: git checkout develop
+			7.1.2.- Mergeamos la rama en develop: git merge NOMBRE_DE_FEATURE
+			7.1.3.- Borramos rama local: git branch -d NOMBRE_DE_FEATURE
+		7.2.- Usando git flow: git flow feature finish NOMBRE_DE_FEATURE 
+	8.- Push a develop
+	9.- Pasar a master lo que tenemos en develop.
+	10.- Push a master (bitbucket)
+	11.- Push al servidor de produccion de Heroku
+
+
+git push heroku_test HU-0903-2015_validacion-fin-partida-sin-ganador-empate:master
+							  

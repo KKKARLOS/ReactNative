@@ -1,0 +1,500 @@
+git status
+    3  git commit -m "HU-0903-2015_funcion_que_añade_valor_de_casilla_en_array_cellObj desarrollo de función  y llamada"
+    4  git checkout develop
+    5  git merge HU-0903-2015_funcion_que_añade_valor_de_casilla_en_array_cellObj
+    6  git push origin develop
+    7  git push heroku_test HU-0903-2015_funcion_que_añade_valor_de_casilla_en_array_cellObj:master
+    8  git push heroku_test develop:master
+    9  git push heroku_test master
+   10  git branch -av
+   11  git remote
+   12  git fetch -p
+   13  git fetch -p
+   14  git push heroku_test develop:master
+   15  git push heroku_test HU-0903-2015_funcion_que_añade_valor_de_casilla_en_array_cellObj:master
+   16  git push heroku_test -f develop:master
+   17  git push heroku_test -f HU-0903-2015_funcion_que_añade_valor_de_casilla_en_array_cellObj:master
+   18  git checkout develop
+   19  git checkout -b HU-1803-1800_Corregir_problema_creacion_partida
+   20  cd
+   21  clear
+   22  git checkout develop
+   23  git log
+   24  q
+   25  git branch
+   26  git checkout -b HU-0903-2015_validacion-3-en-raya develop
+   27  git checkout -b HU-0903-2015_validacion-fin-partida-sin-ganador-empate
+   28  git status
+   29  git checkout develop
+   30  git status
+   31  git branch
+   32  git branch -d HU-0903-2015_validacion-3-en-raya
+   33  git branch -d HU-0903-2015_validacion-fin-partida-sin-ganador-empate
+   34  git branch
+   35  git branch -d HU-0302-1349_gestionSalaCompletada
+   36  git branch
+   37  git push origin :HU-0302-1349_gestionSalaCompletada
+   38  git branch -av
+   39  git checkout -b [HU-1603-1845] Revdevelop
+   40  clear
+   41   tiemposdevelop-b [HU-1603-1845] Revisión pintado de celdas. Tratar de optimizar
+   42  git checkout -b 603-1845] Revisión pintado de celdas. Tratar de optimizar tiempos
+   43  clerar
+   44  clear
+   45   tiemposeckout -b [HU-1603-1845] Revisión pintado de celdas. Tratar de optimizar
+   46  git checkout -b HU-1603-1845_Revisión_pintado_de_celdas_trTratar de optimiza
+   47  git checkout -b HU-1603-1845_Revisión_pintado_de_celdas_tratar_optimizar_tiem d
+   48  git checkout -b HU-1603-1845_Revisión_pintado_de_celdas_tratar_optimizar_tiem
+   49  git checkout develop
+   50  git pull develop
+   51  git pull
+   52  git merge develop
+   53  git checkout develop
+   54  git pull
+   55  git merge HU-1603-1845_Revisión_pintado_de_celdas_tratar_optimizar_tiem
+   56  git push origin develop
+   57  keytool - keystore ~/Documentos/proled_client/android/app/debug.keystore -list -v~/Documentos                                                            
+   58  keytool - keystore /f/Cursos/ReactNative/proled_client/android/app/debug.keystore -listclear
+   59  clear
+   60  ore -list - keystore /f/Cursos/ReactNative/proled_client/android/app/debug.keysto
+   61  ore -list - keystore /f/Cursos/Reactive/proled_client/android/app/debug.keysto
+   62  clear
+   63  keystore /f/Cursos/ReactNative/proled_client/android/app/debug.keystore -list
+   64  keytool - keystore /f/Cursos/ReactNative/proled_client/android/app/debug.keystore -list
+   65  keytool - keystore f/Cursos/ReactNative/proled_client/android/app/debug.keystore -listdfvdsfgvsdfgsdfgdsfgsdfxg
+   66  keytool
+   67  keytool keystore android/app/debug.keystore -list -v
+   68  keytool keystore F:\Cursos\ReactNative\proled_client\android\app/debug.keystore -list
+   69  clear
+   70  CLEAR
+   71  git pull
+   72  git branch
+   73  git pull origin/feature/_HU-2101-1659]_Firebase_configuration_and_login_buttonchclear
+   74  git branch a
+   75  git branch -a
+   76  git checkout _HU-2101-1659]_Firebase_configuration_and_login_button
+   77  git fetch --all
+   78  git branch
+   79  git checkout origin/feature/_HU-2101-1659]_Firebase_configuration_and_login_button    fdsgsdgsdg
+   80  git ckeckout origin/feature/_HU-2101-1659]_Firebase_configuration_and_login_buttonclear
+   81  clear
+   82  git checkout develop
+   83  git merge HU-1803-1800_Corregir_problema_creacion_partida
+   84  git push origin develop
+   85  git push -f heroku_test develop:master
+   86  git checkout -b HU-1803-2000_Función_que_borra_la_partida_indicada
+   87  git add.
+   88  git add .
+   89  git commit -m HU-1803-2000_Función_que_borra_la_partida_indicada
+   90  git checkout develop
+   91  git merge HU-1803-2000_Función_que_borra_la_partida_indicada
+   92  git push heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada-empate:master
+   93  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada-empate:master
+   94  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develoop-empate:master
+   95  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+   96  git checkout develop
+   97  git status
+   98  git checkout HU-1803-2000_Función_que_borra_la_partida_indicada
+   99  git merge develop
+  100  git checkout develop
+  101  git merge HU-1803-2000_Función_que_borra_la_partida_indicada
+  102  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  103  git checkout develop
+  104  git merge HU-1803-2000_Función_que_borra_la_partida_indicada
+  105  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  106  git checkout develop
+  107  git merge HU-1803-2000_Función_que_borra_la_partida_indicada
+  108  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  109  git checkout develop
+  110  git merge HU-1803-2000_Función_que_borra_la_partida_indicada
+  111  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  112  git merge HU-1803-2000_Función_que_borra_la_partida_indicada
+  113  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  114  git checkout  HU-1803-2000_Función_que_borra_la_partida_indicada
+  115  git merge develop
+  116  git checkout develop
+  117  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  118  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  119  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  120  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  121  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  122  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  123  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  124  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  125  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  126  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  127  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  128  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  129  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  130  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  131  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  132  git push -f heroku_test HU-1803-2000_Función_que_borra_la_partida_indicada develop:master
+  133  git merge  HU-1803-2000_Función_que_borra_la_partida_indicada
+  134  git push origin develop
+  135  git checkout origin/feature/_HU-2101-1659]_Firebase_configuration_and_login_button
+  136  git pull
+  137  git checkout develop
+  138  git pull origin develop
+  139  git checkout develop
+  140  git pull
+  141  clear
+  142  git pull
+  143  git branch
+  144  git branch -a
+  145  git checkout remotes/origin/feature/_HU-2101-1659]_Firebase_configuration_and_login_button
+  146  npm install react-native-google-signin --save
+  147  npm install
+  148  react-native run-android
+  149  adb devices
+  150  react-native run-android
+  151  git branch -a
+  152  git checkout develop
+  153  git branch -a
+  154  git checkout remotes/origin/fixSocket
+  155  git merge develop
+  156  git checkout develop
+  157  git merge remotes/origin/fixSocket
+  158  git push origin develop
+  159  $ npm
+  160  npm init --yes
+  161  npm i express --save
+  162  npm i -D nodemon
+  163  npm i dotenv --save
+  164  node index.js
+  165  node index.js
+  166  node index.js
+  167  node index.js
+  168  node index.js
+  169  node index.js
+  170  node index.js
+  171  node index.js
+  172  node index.js
+  173  node index.js
+  174  node index.js
+  175  node index.js
+  176  node index.js
+  177  node index.js
+  178  node index.js
+  179  node index.js
+  180  node index.js
+  181  node index.js
+  182  node index.js
+  183  node index.js
+  184  node index.js
+  185  node index.js
+  186  node index.js
+  187  node index.js
+  188  node index.js
+  189  node index.js
+  190  node index.js
+  191  node index.js
+  192  node index.js
+  193  node index.js
+  194  node index.js
+  195  node index.js
+  196  node index.js
+  197  node index.js
+  198  node index.js
+  199  node index.js
+  200  node index.js
+  201  node index.js
+  202  node index.js
+  203  node index.js
+  204  node index.js
+  205  node index.js
+  206  node index.js
+  207  node index.js
+  208  node index.js
+  209  node index.js
+  210  node index.js
+  211  node index.js
+  212  node index.js
+  213  node index.js
+  214  node index.js
+  215  node index.js
+  216  node index.js
+  217  node index.js
+  218  node index.js
+  219  node index.js
+  220  node index.js
+  221  node index.js
+  222  node index.js
+  223  node index.js
+  224  node index.js
+  225  node index.js
+  226  node index.js
+  227  node index.js
+  228  node index.js
+  229  node index.js
+  230  node index.js
+  231  node index.js
+  232  node index.js
+  233  cls
+  234  clear
+  235  node index.js
+  236  node index.js
+  237  node index.js
+  238  node index.js
+  239  clear
+  240  node index.js
+  241  clear
+  242  node index.js
+  243  node index.js
+  244  node index.js
+  245  node index.js
+  246  clear
+  247  node index.js
+  248  clear
+  249  node index.js
+  250  node index.js
+  251  node index.js
+  252  node index.js
+  253  node index.js
+  254  node index.js
+  255  node index.js
+  256  node index.js
+  257  node index.js
+  258  node index.js
+  259  node index.js
+  260  node index.js
+  261  node index.js
+  262  node index.js
+  263  node index.js
+  264  node index.js
+  265  node index.js
+  266  node index.js
+  267  node index.js
+  268  node index.js
+  269  node index.js
+  270  node index.js
+  271  node index.js
+  272  node index.js
+  273  node index.js
+  274  node index.js
+  275  node index.js
+  276  node index.js
+  277  node index.js
+  278  node index.js
+  279  node index.js
+  280  node index.js
+  281  node index.js
+  282  node index.js
+  283  node index.js
+  284  node index.js
+  285  node index.js
+  286  node index.js
+  287  node index.js
+  288  node index.js
+  289  node index.js
+  290  node index.js
+  291  node index.js
+  292  node index.js
+  293  git pull
+  294  git checkout -b HU-2303-1803_validacion_celda_pulsada develop
+  295  git merge develop
+  296  git add .
+  297  git commit -m "HU-2303-1803] validacion celda pulsada y partida finalizada"
+  298  git checkout develop
+  299  git merge HU-2303-1803_validacion_celda_pulsada
+  300  git push origin develop
+  301  git checkout -b HU-2303-1804_validacion_turno develop
+  302  git add .
+  303  git commit -m "HU-2303-1804_validacion_turno"
+  304  git checkout develop
+  305  git merge HU-2303-1804_validacion_turno
+  306  git push origin develop
+  307  git checkout HU-2303-1804_validacion_turno
+  308  git merge develop
+  309  git add .
+  310  git commit -m "HU-2303-1804_validacion_turno Bug No mostrar spinner al volver"
+  311  git checkout develop
+  312  git merge HU-2303-1804_validacion_turno
+  313  git push origin develop
+  314  git merge HU-1803-2000_Función_que_borra_la_partida_indicada
+  315  git push -f heroku_test develop:master
+  316  git push origin develop
+  317  git checkout -b HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  318  git merge develop
+  319  git develop
+  320  git checkout develop
+  321  git merge HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  322  git push -f heroku-test develop:master
+  323  git history
+  324  git log
+  325  git push -f heroku_test develop:master
+  326  git checkout HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  327  git merge HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  328  git push -f heroku_test develop:master
+  329  git merge HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  330  git push -f heroku_test develop:master
+  331  git merge HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  332  git push -f heroku_test develop:master
+  333  git merge HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  334  git push -f heroku_test develop:master
+  335  git merge HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  336  git push -f heroku_test develop:master
+  337  git merge HU-2603-1855_Crear_evento_gameOver_emit_en_server
+  338  git push -f heroku_test develop:master
+  339  git status
+  340  git log
+  341  gt
+  342  g
+  343  FFFFFFFFRRRRRRRRRRFGGGGGGG
+  344  git push origin develop
+  345  git log
+  346  git status
+  347  git log
+  348  git reset HEAD^ --hard
+  349  git push origin -f
+  350  git push -f origin develop
+  351  git status
+  352  git log
+  353  git checkout -b HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor
+  354  git push -f heroku_test HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor:master
+  355  git push -f heroku_test HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor:master
+  356  git push -f heroku_test HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor:master
+  357  git push -f heroku_test HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor:master
+  358  git push -f heroku_test HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor:master
+  359  git status
+  360  git log
+  361  q
+  362  Git commit --amend -m “controlar que el jugador no pulse más de una vez en cada turno”
+  363  git log
+  364  t commit --amend -m "controlar que el jugador no pulse más de una vez en cada turno"
+  365  git commit --amend -m "controlar que el jugador no pulse más de una vez en cada turno"
+  366  git log
+  367  git push -f heroku_test HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor:master
+  368  git push -f heroku_test HU-0104-1745_Evitar_que_se_pulsen_varias_celdas_desde_servidor:master
+  369  git log
+  370  git commit --amend -m "controlar que el jugador no pulse más de una vez en cada turno y echar al otro jugador de la partida si su contrario abandona el juego"
+  371  git log
+  372  git check develop
+  373  git checkout develop
+  374  git cherry-pick 1c14f8f331e91e3f8809f912053459f231670696
+  375  git log --pretty=oneline
+  376  git push origin develop
+  377  git cherry-pick 1c14f8f331e91e3f8809f912053459f231670696
+  378  git push origin develop
+  379  git checkout -b HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior
+  380  git ck develop
+  381  git checkout develop
+  382  git merge HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior
+  383  git push origin develop
+  384  git push -f heroku_test HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior:master
+  385  git push -f heroku_test HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior:master
+  386  git push -f heroku_test HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior:master
+  387  git push -f heroku_test HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior:master
+  388  git push -f heroku_test HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior:master
+  389  git push -f heroku_test HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior:master
+  390  git push -f heroku_test HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior:master
+  391  git log
+  392  git commit --amend -m "Problema con Git. Version incorrecta controlar que el jugador no pulse más de una vez en cada turno"
+  393  git log
+  394  git checkout develop
+  395  git cherry-pick b018b590746552ce8f46d7e0f4bab6457ef2d847
+  396  git commit --allow-empty
+  397  git checkout develop
+  398  git cherry-pick b018b590746552ce8f46d7e0f4bab6457ef2d847
+  399  git status
+  400  git push origin develop
+  401  git develop
+  402  git checkout develop
+  403  git status
+  404  git merge
+  405  git merge
+  406  git merge HU-0104-1800_listener_socket_en_servidor_para_cuando_un_jugador_pulse_botón_de_volver_pantalla_anterior
+  407  git push origin develop
+  408  git checkout -b HU-1004-2200_gestionarSala_enBoard_Client develop
+  409  git push -f proled-test develop:master
+  410  git push -f proled develop:master
+  411  git remote -v
+  412  git push -f heroku develop:master
+  413  git checkout -b HU-1004-0900_gestionarSala_enIndex_Server develop
+  414  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  415  git reset HEAD^ --soft
+  416  git status
+  417  git log
+  418  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  419  git reset HEAD^ --soft
+  420  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  421  git reset HEAD^ --soft
+  422  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  423  git reset HEAD^ --soft
+  424  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  425  git reset HEAD^ --soft
+  426  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  427  git reset HEAD^ --soft
+  428  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  429  git reset HEAD^ --soft
+  430  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  431  git reset HEAD^ --soft
+  432  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  433  git reset HEAD^ --soft
+  434  git status
+  435  git log
+  436  git reset HEAD^ --soft
+  437  git reset HEAD^ --soft
+  438  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  439  git reset HEAD^ --soft
+  440  git log
+  441  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  442  git reset HEAD^ --soft
+  443  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  444  git reset HEAD^ --soft
+  445  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  446  git reset HEAD^ --soft
+  447  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  448  git reset HEAD^ --soft
+  449  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  450  git reset HEAD^ --soft
+  451  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  452  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  453  git reset HEAD^ --soft
+  454  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  455  git reset HEAD^ --soft
+  456  git push -f heroku_test HU-1004-0900_gestionarSala_enIndex_Server:master
+  457  git reset HEAD^ --soft
+  458  git log
+  459  git log
+  460  git checkout develop
+  461  git merge HU-1004-0900_gestionarSala_enIndex_Server
+  462  git push origin develop
+  463  git push -f heroku develop:master
+  464  git log
+  465  git checkout develop
+  466  git log
+  467  git reset HEAD^ --soft
+  468  git log
+  469  git log
+  470  git checkout develop
+  471  git merge HU-1004-0900_gestionarSala_enIndex_Server
+  472  git merge HU-1004-0900_gestionarSala_enIndex_Server
+  473  git push -f heroku develop:master
+  474  git push -f heroku_test develop:master
+  475  git log
+  476  git reset HEAD^ --soft
+  477  git merge HU-1004-0900_gestionarSala_enIndex_Server
+  478  git merge HU-1004-0900_gestionarSala_enIndex_Server
+  479  git push -f heroku_test develop:master
+  480  git push -f heroku develop:master
+  481  git checkout develop
+  482  git merge HU-1004-2200_gestionarSala_enBoard_Client
+  483  git push origin develop
+  484  git log
+  485  git checkout develop
+  486  git merge HU-1004-2200_gestionarSala_enBoard_Client
+  487  git push origin develop
+  488  git checkout -b
+  489  git checkout -b HU-1604-1230_Enviar_a_Servidor_objeto_GoogleUserData
+  490  git merge develop
+  491  git log
+  492  react-native init
+  493  cd ..
+  494  react-native init TestPruebas
+  495  yarn add react-native-vector-icons
+  496  git clone https://github.com/artyorsh/react-navigation-ex-demo
+  497  mongod --version
+  498  mongo -version
+  499  mongo --version
+  500  mongo -version
+  501  history

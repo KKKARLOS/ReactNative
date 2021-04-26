@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722236199863",
+    "firebase_url": "https://proled-2b4ce.firebaseio.com",
+    "project_id": "proled-2b4ce",
+    "storage_bucket": "proled-2b4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722236199863:android:73da7a494559df8e150e32",
+        "android_client_info": {
+          "package_name": "com.proled_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722236199863-s1hrl1b2rs4f1reqfiopsaqni3ck9jeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proled_client",
+            "certificate_hash": "9399ffb5ecbbad60774dab9f336b4f333b275c25"
+          }
+        },
+        {
+          "client_id": "722236199863-8t1v1cu9t45d85m2kotqgijcecbkvtkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPS654Vx39_uR4eXOIeRNqmhZFE88i5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722236199863-8t1v1cu9t45d85m2kotqgijcecbkvtkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

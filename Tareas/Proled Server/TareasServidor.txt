@@ -1,0 +1,74 @@
+1.- Realizar la partida completa sin gestión de Salas y sin enviar los valores harcodeados y controlando que un jugador no pueda pulsar si no es su turno.
+	
+  Asignar jugador en la partida / Asignar el jugador que tiene turno de juego
+
+  Al unirse un jugador a la partida el servidor indicará al cliente qué jugador es en la partida. 
+  
+  Si fuera el segundo jugador enviará además a los dos jugadores quién de los jugadores tiene el turno de juego.
+
+  Al pulsar la celda se controlará si el jugador tiene su turno o no. Se evitará el ir al servidor sin ninguna necesidad.
+
+  Además de enviar a cliente la celda a pintar se enviará el turno del jugador.
+
+  El identificar el jugador, nos permite posteriormente informarle de que tiene que mover la ficha tal o cual. A parte nos permite decir que el turno le corresponde
+  a tal o cuál jugador.
+
+
+2.- Gestión de salas 
+
+	
+
+3.- Definición de la clase partida. Operaciones a realizar sobre objectos de tipos partida.
+ 
+   Definición:
+	class Game {
+		Room: 		int;
+		Player1:	String; // 	--> Socket Id
+		Player2		String; //   	--> Socket Id
+		PlayerTurn	int;	// 	(valores posibles: 1, 2)
+		Cells		array();
+	}
+
+   Poder: 
+
+   - Crear una instancia de la clase Game. Crear y añadir al array.
+   - Buscar un objeto partida en base al socket id de la conexión dentro del array.
+   - Modificar el objeto partida
+   - Borrar el objeto partida del array.
+
+Clases
+
+Arrays
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/of
+
+Main.js
+-------
+  const joinGame = () => {
+    socket.emit('joingame', socket.id);
+    setShowSpinner(true);
+  };
+
+  socket.on('gotoboard', data => {
+    console.log('Navigation to the board');
+    props.navigation.navigate('Board');
+  });
+
+Board.js
+------------
+const socket = useContext(SocketContext);
+
+  socket.on('gotomain', data => {
+    console.log('Game finished, navigate to Main');
+    ToastAndroid.show('Game finished, navigate to Main', ToastAndroid.SHORT);
+    props.navigation.navigate('Main');
+  });
+
+CellBox.js
+----------
+    return (
+        <TouchableOpacity  
+          style={styles.button} 
+          key={id}
+          onPress={() => {socket.emit ('  ',id)}}
+        />

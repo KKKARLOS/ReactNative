@@ -1,0 +1,25 @@
+
+Sintaxis SCSS
+
+body{
+	background:blue;
+}
+
+Sintaxis SASS   (vamos a trabajar con esta sintaxis luego los archivos llevarán la extension sass)
+
+body
+	background: blue
+
+
+1.-Compilar un archivo SASS. Ponemos el comando sass luego el fichero origen (main.sass) a continuacion (:) y el fichero destino (main.css).
+
+	sass main.sass:main.css
+	
+	o
+
+	sass --watch main.sass:main.css
+
+2. La mejor solución sin tener que descargar nada a través de node.js, npm, etc es únicamente instalar 2 extensiones para visual studio code
+
+	Live Server (creada por Ritwick Dey)
+	Live Sass Compiler (creada por Ritwick Dey)	 

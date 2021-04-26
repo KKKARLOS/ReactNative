@@ -1,0 +1,8 @@
+C:\Users\Karlos\.vscode\extensions\ms-vsliveshare.vsliveshare-1.0.1783
+https://stackoverflow.com/questions/42017617/how-to-install-vs-code-extension-manually
+
+La configuración de permisos establecido de forma predeterminada en el equipo no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ y APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ al usuario DESKTOP-NVR9EKJ\Karlos con SID (S-1-5-21-4103599113-4093464001-3495638526-1001) en la dirección LocalHost (con LRPC) que se ejecuta en el contenedor de aplicaciones con SID Microsoft.Windows.ShellExperienceHost_10.0.18362.449_neutral_neutral_cw5n1h2txyewy (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). Este permiso de seguridad se puede modificar mediante la herramienta administrativa Servicios de componentes
